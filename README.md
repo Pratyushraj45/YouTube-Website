@@ -1,4 +1,4 @@
-###### YouTube Clone Single Page Application with React, Tailwind CSS, and Rapid API
+# YouTube Clone Single Page Application with React, Tailwind CSS, and Rapid API
 
 ## Project Description
 
